@@ -97,7 +97,7 @@ Contributing
 ------------
 
 See our [TODO List](https://github.com/libmir/mir/issues?q=is%3Aissue+is%3Aopen+label%3A%22New+Package%22).
-Mir is very young and we are open for contributing to source code, documentation, examples and benchmarks.
+Mir is very young and we are open for contributions to source code, documentation, examples and benchmarks.
 
 Notes
 -----
